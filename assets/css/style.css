@@ -1,0 +1,13 @@
+#banner {
+    background-image: url(../img/bg-hero.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#trabajos {
+    background: #17A2B8;
+}
+
+footer {
+    background: #000;
+}
